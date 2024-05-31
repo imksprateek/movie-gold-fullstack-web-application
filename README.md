@@ -40,7 +40,7 @@ Movie Gold is built with the following technologies:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/movie-gold.git
+    git clone https://github.com/imksprateek/movie-gold-fullstack-web-application.git
     cd movie-gold/backend
     ```
 
